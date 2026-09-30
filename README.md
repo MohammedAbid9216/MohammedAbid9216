@@ -1,126 +1,124 @@
-::: {align="center"}
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:24104F,100:FF5F6D&text=MOHAMMED%20ABID&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=18" width="100%"/>{=html}
+<div align="center">
 
-<a href="https://git.io/typing-svg">{=html}
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=FF5F6D&center=true&vCenter=true&width=850&lines=Building+Data+%26+ML+Systems+%F0%9F%A7%A0;Python+%7C+SQL+%7C+Pandas+%7C+Scikit-Learn+%F0%9F%90%8D;Turning+Messy+Data+Into+Useful+Models+%F0%9F%93%8A;Learning.+Building.+Breaking.+Fixing.+Repeating.+%F0%9F%94%A5" alt="Typing SVG" />{=html}
-</a>{=html}
+<!-- ===================== HERO ===================== -->
 
-<br/>{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:102A43,75:4C1D95,100:0EA5E9&text=MOHAMMED%20ABID&fontSize=52&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20ML%20ENGINEER%20%7C%20PYTHON%20DEVELOPER&descAlignY=58&descSize=16&descColor=C4B5FD" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=MohammedAbid9216&label=PROFILE+VIEWS&color=ff5f6d&style=for-the-badge" alt="Profile views"/>{=html}
-<img src="https://img.shields.io/github/followers/MohammedAbid9216?label=FOLLOWERS&style=for-the-badge&color=8b5cf6" alt="Followers"/>{=html}
-<img src="https://img.shields.io/github/stars/MohammedAbid9216?label=STARS&style=for-the-badge&color=f59e0b" alt="Stars"/>{=html}
-:::
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=650&color=38BDF8&center=true&vCenter=true&width=850&lines=%3E+Initializing+Developer+Environment...;%3E+Loading+Python%2C+SQL+%26+Machine+Learning...;%3E+Preparing+Projects+%26+Coffee...;%3E+Turning+Data+Into+Intelligent+Systems...;%3E+Ready!+%F0%9F%9A%80" alt="Typing animation"/>
 
-::: {align="center"}
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="620" alt="Coding animation"/>{=html}
-:::
+<br/>
 
-🧬 whoami
+<img src="https://komarev.com/ghpvc/?username=MohammedAbid9216&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/MohammedAbid9216?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/MohammedAbid9216?label=STARS&style=for-the-badge&color=06B6D4" alt="Stars"/>
+
+</div>
 
 <table>
-
 <tr>
+<td width="22%" valign="top">
 
-<td width="58%" valign="top">
+👨‍💻 PROFILE
+
+Mohammed Abid
+Data Scientist / ML Engineer
+
+📍 Rajasthan, India
+
+🎯 Data Science
+🧠 Machine Learning
+🐍 Python
+🗄️ SQL
+⚙️ C
+
+<br/>
+
+⚡ CURRENTLY
+
+● Learning MLOps
+● Building ML Projects
+● Exploring AI Agents
+● Improving DSA
+● Drinking Coffee ☕
+
+<br/>
+
+🔗 CONNECT
+
+<a href="https://www.linkedin.com/in/mohdabid9216/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="120"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/MohammedAbid9216">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" width="120"/>
+</a>
+
+</td>
+
+<td width="78%" valign="top">
+
+🧠 > whoami
+
+<table>
+<tr>
+<td width="58%">
 
 class MohammedAbid:
+
     name = "Mohammed Abid"
-    role = "Aspiring Data Scientist"
-    focus = [
-        "Data Analytics",
-        "Machine Learning",
+    role = "Aspiring Data Scientist / ML Engineer"
+    location = "Rajasthan, India"
+
+    languages = [
         "Python",
         "SQL",
-        "MLOps"
+        "C"
     ]
 
-    mindset = "Learn → Build → Deploy → Improve"
+    interests = [
+        "Data Science",
+        "Machine Learning",
+        "MLOps",
+        "Deep Learning",
+        "NLP"
+    ]
 
-    def current_mode(self):
-        return "Turning data into practical systems 🚀"
+    philosophy = "Learn → Build → Experiment → Improve"
 
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="330" alt="Animated coding"/>{=html}
-
-<br/>{=html}<br/>{=html}
-
-<b>{=html}🧠 DATA → MODEL → API → SYSTEM</b>{=html}
+    status = "Always Learning 🚀"
 
 </td>
 
+<td width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding animation"/>
+
+<br/><br/>
+
+<b>☕ CODE • DATA • MODELS • REPEAT</b>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=330&lines=Problem+Solver+%F0%9F%A7%A0;Continuous+Learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%8C%90;Coffee+Powered+Developer+%E2%98%95" alt="Developer traits"/>
+
+</td>
 </tr>
-
 </table>
 
-⚡ CURRENTLY_BUILDING
-
-::: {align="center"}
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-🐍
-
-Python
-
-Data pipelines
-Automation
-Logic building
-
 </td>
-
-<td align="center" width="25%">
-
-🧠
-
-Machine Learning
-
-Model training
-Evaluation
-Prediction
-
-</td>
-
-<td align="center" width="25%">
-
-🗄️
-
-SQL
-
-Data modeling
-Queries
-Analytics
-
-</td>
-
-<td align="center" width="25%">
-
-🚀
-
-MLOps
-
-APIs
-Pipelines
-Production thinking
-
-</td>
-
 </tr>
-
 </table>
 
-:::
-
-🛠️ TECH ARSENAL
+🛠️ > skills --level=developer
 
 <div align="center">
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
 
 💻 Languages
 
@@ -128,59 +126,88 @@ Production thinking
 
 <br/><br/>
 
-🧠 Data Science / ML
+🐍 Python
+🗄️ SQL
+⚙️ C
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn&perline=5" alt="Data Science and ML tools"/>
+</td>
 
-<br/><br/>
+<td width="25%" valign="top">
 
-🚀 Development & Tools
+🧠 ML / DL
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,vscode,linux&perline=6" alt="Development tools"/>
+🤖 Machine Learning
+🧠 Deep Learning
+💬 NLP
+👁️ Computer Vision
+
+</td>
+
+<td width="25%" valign="top">
+
+📊 Data
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=3" alt="NumPy Pandas Matplotlib"/>
+
+<br/>
+
+NumPy
+Pandas
+Matplotlib
+Seaborn
+
+</td>
+
+<td width="25%" valign="top">
+
+🚀 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,vscode&perline=3" alt="Tools"/>
+
+<br/>
+
+Git / GitHub
+FastAPI
+Docker
+VS Code
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-🚀 FEATURED PROJECTS
+🚀 > projects --featured
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
-
-<h3>
 
 🤖 AutoML Pipeline
 
-</h3>
+Automated ML workflow for preprocessing, training, evaluation and model selection.
 
-Automated machine-learning workflow focused on preprocessing, model
-training, evaluation and reusable prediction pipelines.
+Stack: Python · Pandas · Scikit-Learn
 
-Stack: Python · Pandas · Scikit-Learn · ML Pipeline
-
-<a href="https://github.com/MohammedAbid9216/automl">{=html}
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF5F6D?style=for-the-badge&logo=github&logoColor=white" alt="Open AutoML project"/>{=html}
-</a>{=html}
+<a href="https://github.com/MohammedAbid9216/automl">
+<img src="https://img.shields.io/badge/GitHub%20Repo-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="AutoML Repository"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
-
-<h3>
 
 🩺 Cancer Detection
 
-</h3>
+ML classification project with preprocessing, feature analysis, model training and prediction.
 
-Machine-learning classification project for cancer-related prediction,
-including data preparation, model training and evaluation.
+Stack: Python · Pandas · Scikit-Learn
 
-Stack: Python · Pandas · Scikit-Learn · Classification
-
-<a href="https://github.com/MohammedAbid9216/Cancer-Detection-Project-">{=html}
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open Cancer Detection project"/>{=html}
-</a>{=html}
+<a href="https://github.com/MohammedAbid9216/Cancer-Detection-Project-">
+<img src="https://img.shields.io/badge/GitHub%20Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Cancer Detection Repository"/>
+</a>
 
 </td>
 
@@ -190,158 +217,162 @@ Stack: Python · Pandas · Scikit-Learn · Classification
 
 <td width="50%" valign="top">
 
-<h3>
+🏆 Champion–Challenger API
 
-🏆 Champion--Challenger API
+Model experimentation and comparison workflow exposed through an API.
 
-</h3>
+Stack: Python · FastAPI · Scikit-Learn
 
-API-oriented model lifecycle project built around comparing a current
-champion model with challenger models.
-
-Stack: Python · FastAPI · ML · API
-
-<a href="https://github.com/MohammedAbid9216/champion_challenger_api">{=html}
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Champion Challenger project"/>{=html}
-</a>{=html}
+<a href="https://github.com/MohammedAbid9216/champion_challenger_api">
+<img src="https://img.shields.io/badge/GitHub%20Repo-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Champion Challenger Repository"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
-
-<h3>
 
 📄 Resume Domain Classifier
 
-</h3>
+NLP-based classification project designed to identify resume domains.
 
-NLP classification project designed to identify the domain/category of
-resumes using machine-learning techniques.
+Stack: Python · NLP · Pandas
 
-Stack: Python · NLP · Scikit-Learn · Classification
-
-<a href="https://github.com/MohammedAbid9216/resume_domain_classifier">{=html}
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Open Resume Domain Classifier project"/>{=html}
-</a>{=html}
+<a href="https://github.com/MohammedAbid9216/resume_domain_classifier">
+<img src="https://img.shields.io/badge/GitHub%20Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Resume Classifier Repository"/>
+</a>
 
 </td>
 
 </tr>
-
 </table>
 
-🧪 MY ML PIPELINE
+🎮 > games --animations
 
-::: {align="center"}
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=500&color=00C2FF&center=true&vCenter=true&width=900&lines=01+%7C+Collect+Data;02+%7C+Clean+%26+Explore;03+%7C+Engineer+Features;04+%7C+Train+Models;05+%7C+Evaluate+%26+Compare;06+%7C+Build+API;07+%7C+Monitor+%26+Improve" alt="ML pipeline animation"/>{=html}
-
-<br/>{=html}<br/>{=html}
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:111827,50:24104F,100:7C3AED&text=DATA%20%E2%86%92%20FEATURES%20%E2%86%92%20MODEL%20%E2%86%92%20API%20%E2%86%92%20MONITORING&fontColor=FFFFFF&fontSize=17" width="90%" alt="ML pipeline"/>{=html}
-:::
-
-🐍 CONTRIBUTION SNAKE
-
-::: {align="center"}
-<picture>{=html}
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedAbid9216/MohammedAbid9216/output/github-contribution-grid-snake-dark.svg">{=html}
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedAbid9216/MohammedAbid9216/output/github-contribution-grid-snake.svg">{=html}
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MohammedAbid9216/MohammedAbid9216/output/github-contribution-grid-snake.svg" width="95%">{=html}
-</picture>{=html}
-:::
-
-🎮 ARCADE MODE
-
-::: {align="center"}
+<div align="center">
 
 <table>
-
 <tr>
 
-<td align="center" width="33%">
+<td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="220" alt="Pacman animation"/>{=html}
+🐍 Snake Eats My Contributions
 
-<b>{=html}PAC-MAN MODE</b>{=html}
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="220" alt="Fire animation"/>{=html}
-
-<b>{=html}BUILD MODE</b>{=html}
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedAbid9216/MohammedAbid9216/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedAbid9216/MohammedAbid9216/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/MohammedAbid9216/MohammedAbid9216/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+</picture>
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="220" alt="Coding animation"/>{=html}
+👾 Pac-Man Coding Mode
 
-<b>{=html}DEBUG MODE</b>{=html}
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pac-Man animation"/>
 
 </td>
 
 </tr>
-
 </table>
 
-:::
+</div>
 
-📊 GITHUB COMMAND CENTER
+📊 > stats --github
 
-::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedAbid9216&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=8B5CF6&text_color=FFFFFF&ring_color=00C2FF" height="180" alt="GitHub stats"/>{=html}
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbid9216&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" height="180" alt="Top languages"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedAbid9216&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0" height="180" alt="GitHub Stats"/>
 
-<br/>{=html}<br/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbid9216&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" height="180" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=MohammedAbid9216&theme=dark&hide_border=true&background=0D1117&ring=FF5F6D&fire=F59E0B&currStreakLabel=00C2FF" width="72%" alt="GitHub streak"/>{=html}
-:::
+<br/><br/>
 
-🏆 ACHIEVEMENT WALL
+<img src="https://streak-stats.demolab.com?user=MohammedAbid9216&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=06B6D4" width="72%" alt="GitHub Streak"/>
 
-::: {align="center"}
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedAbid9216&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>{=html}
-:::
+</div>
 
-📈 ACTIVITY SIGNAL
+🏆 > trophies --achievements
 
-::: {align="center"}
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAbid9216&bg_color=0D1117&color=FFFFFF&line=FF5F6D&point=00C2FF&area=true&hide_border=true" width="96%" alt="GitHub activity graph"/>{=html}
-:::
+<div align="center">
 
-🧭 ROADMAP
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedAbid9216&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
-::: {align="center"}
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&width=900&lines=%5B01%5D+Advanced+Machine+Learning; %5B02%5D+MLOps+%26+Model+Deployment; %5B03%5D+Deep+Learning; %5B04%5D+LLM+%26+Generative+AI; %5B05%5D+Production-Grade+Data+Systems" alt="Roadmap"/>{=html}
-:::
+</div>
 
-🌐 LET'S CONNECT
+📈 > activity --graph
 
-::: {align="center"}
-<a href="https://www.linkedin.com/in/mohdabid9216/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
-</a>{=html}
+<div align="center">
 
-<a href="https://github.com/MohammedAbid9216">{=html}
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>{=html}
-</a>{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAbid9216&bg_color=0D1117&color=E2E8F0&line=38BDF8&point=A78BFA&area=true&hide_border=true" width="96%" alt="GitHub Activity Graph"/>
 
-<a href="https://github.com/MohammedAbid9216?tab=repositories">{=html}
-<img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>{=html}
-</a>{=html}
-:::
+</div>
 
-<br/>{=html}
+🧭 > roadmap --mission=ai
 
-::: {align="center"}
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF5F6D,50:24104F,100:0B1020&animation=twinkling" width="100%" alt="Footer"/>{=html}
+<div align="center">
 
-<b>{=html}⚡ Learn. Build. Deploy. Improve. ⚡</b>{=html}
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         MOHAMMED ABID ROADMAP                           │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  [01] DATA SCIENCE        ████████████████████  100%                  │
+│       Python • SQL • Statistics • EDA                                   │
+│                                                                         │
+│  [02] MACHINE LEARNING    ███████████████░░░░░   75%                  │
+│       ML • Feature Engineering • Evaluation                             │
+│                                                                         │
+│  [03] MLOPS & DEPLOYMENT  ████████░░░░░░░░░░░░   40%                  │
+│       APIs • Docker • Monitoring                                        │
+│                                                                         │
+│  [04] NLP / LLMs          ████░░░░░░░░░░░░░░░░   20%                  │
+│       NLP • Transformers • GenAI                                        │
+│                                                                         │
+│  [05] AI AGENTS           ██░░░░░░░░░░░░░░░░░░░   10%                  │
+│       Tools • Workflows • Intelligent Systems                            │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 
-<br/>{=html}<br/>{=html}
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=MohammedAbid9216&label=THANKS%20FOR%20VISITING&color=8b5cf6&style=flat-square" alt="Thanks for visiting"/>{=html}
-:::
+☕ > coffee --mode=developer
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Coffee+in+one+hand+%E2%98%95;Code+in+the+other+%F0%9F%92%BB;Ideas+in+my+mind+%F0%9F%A7%A0;And+a+better+future+in+progress+%F0%9F%9A%80" alt="Coffee coding animation"/>
+
+<br/><br/>
+
+<b>☕ CODE • LEARN • BUILD • REPEAT</b>
+
+<br/>
+
+<i>"Data is the new oil — I'm here to refine it."</i>
+
+</div>
+
+🌐 > connect --now
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohdabid9216/">
+<img src="https://img.shields.io/badge/LINKEDIN-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/MohammedAbid9216">
+<img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MohammedAbid9216&label=THANKS%20FOR%20VISITING&color=06B6D4&style=for-the-badge" alt="Visitor counter"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,45:4C1D95,100:07111F&animation=twinkling" width="100%" alt="Footer"/>
+
+</div>

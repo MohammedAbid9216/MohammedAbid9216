@@ -120,13 +120,25 @@ Production thinking
 
 🛠️ TECH ARSENAL
 
-::: {align="center"}
-<img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,matplotlib,seaborn,git,github,docker,fastapi,mysql&perline=6" alt="Tech stack"/>{=html}
+<div align="center">
 
-<br/>{=html}<br/>{=html}
+💻 Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux,aws&perline=6" alt="Additional tools"/>{=html}
-:::
+<img src="https://skillicons.dev/icons?i=python,c,mysql&perline=3" alt="Python C SQL"/>
+
+<br/><br/>
+
+🧠 Data Science / ML
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn&perline=5" alt="Data Science and ML tools"/>
+
+<br/><br/>
+
+🚀 Development & Tools
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,vscode,linux&perline=6" alt="Development tools"/>
+
+</div>
 
 🚀 FEATURED PROJECTS
 
